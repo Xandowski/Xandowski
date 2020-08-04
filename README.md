@@ -1,4 +1,8 @@
-<img src="https://media.giphy.com/media/WoubLJE2HwyHg1qa9Z/giphy.gif" align="center">
+<div align="center" width="50">
+
+<img src="https://media.giphy.com/media/WoubLJE2HwyHg1qa9Z/giphy.gif" width="300"/>
+
+</div>
 
 Descobri minha paixão por programação enquanto estava no segundo ano do curso de química, comecei com a linguagem python por curiosidade, mas logo fui para html, css, javascript. Estou no 4º semestre de Análise e Desenvolvimento de Sistemas, em constante aprendizado e evolução.
 
