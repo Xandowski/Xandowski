@@ -16,12 +16,12 @@ Descobri minha paixão por programação enquanto estava no segundo ano do curso
 ##### Linguagens e ferramentas que já estudei e utilizei:
 
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
-![CSS](https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3)
+![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![MYSQL](https://img.shields.io/badge/-SQL-lightgrey?style=flat&logo=mysql)
+![MYSQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![PHP](https://img.shields.io/badge/-php-blueviolet?style=flat&logo=php)
+![PHP](https://img.shields.io/badge/-php-000000?style=flat&logo=php)
 
 ##### Minhas redes sociais :smiley:
 
