@@ -10,17 +10,17 @@ Descobri minha paixão por programação enquanto estava no segundo ano do curso
 
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
 ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
+![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)
+![TypeScript](https://img.shields.io/badge/-TypeScript-222222?style=flat&logo=typescript)
 
 ##### Linguagens e ferramentas que já estudei e utilizei:
 
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
-![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
+![CSS](https://img.shields.io/badge/-CSS-222222?style=flat&logo=css3)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-222222?style=flat&logo=javascript)
 ![MYSQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![Python](https://img.shields.io/badge/-Python-222222?style=flat&logo=python)
 ![PHP](https://img.shields.io/badge/-php-000000?style=flat&logo=php)
 
 ##### Minhas redes sociais :smiley:
