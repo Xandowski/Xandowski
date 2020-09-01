@@ -7,7 +7,7 @@
 - 🎓 I'm currently in 4th semester of Analysis and Development of Systems:
 - 📖 I'm currently learning about Web Development
 - 🙋 Ask me about javascript, i will love to help
-- Fun facts: i love drawning, animation and games. My favorite superhero is Batman. I have a cat called Edgar 🐈.
+- 😛 Fun facts: i love drawning, animation and games. My favorite superhero is Batman. I have a cat called Edgar 🐈.
 
 ### My social medias:
 
