@@ -5,13 +5,14 @@
 ### Hi there, i'm Alexandre:
 
 - 🎓 I'm currently in 4th semester of Analysis and Development of Systems:
+- 💼 College Intern at DXC Technology 
 - 📖 I'm currently learning about Web Development
 - 🙋 Ask me about javascript, i will love to help
 - 😛 Fun facts: i love drawning, animation and games. My favorite superhero is Batman. I have a cat called Edgar 🐈.
 
 ### My social medias:
 
-[![Twitter Badge](https://img.shields.io/twitter/follow/Xandy_Moraiis?label=Follow&style=social&link=https://twitter.com/Xandy_Moraiis)](https://twitter.com/Xandy_Moraiis)
+[![Twitter Badge](https://img.shields.io/twitter/follow/xandowski?label=Follow&style=social&link=https://twitter.com/xandowski)](https://twitter.com/xandowski)
 [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexandre-morais/)](https://www.linkedin.com/in/alexandre-morais/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=&logo=instagram&logoColor=white)](https://www.instagram.com/alexandre.moraiis/)
 
