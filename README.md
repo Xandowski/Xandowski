@@ -4,7 +4,7 @@
 
 ### Hi there, i'm Alexandre:
 
-- 🎓 I'm currently in 4th semester of Analysis and Development of Systems:
+- 🎓 I'm currently in 4th semester of Analysis and Systems Development:
 - 💼 College Intern at DXC Technology 
 - 📖 I'm currently learning about Web Development
 - 🙋 Ask me about javascript, i will love to help
