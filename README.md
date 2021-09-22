@@ -1,52 +1,36 @@
 <div align="left">
 
+<h1 align="center">Hi 👋, I'm Alexandre Morais</h1>
+<h3 align="center">I'm curious and always looking to learn something new</h3>
+
 <img align="right" src="https://media.giphy.com/media/WoubLJE2HwyHg1qa9Z/giphy.gif" width="300"/>
 
-### Hi there, i'm Alexandre:
+- 🎓 I'm currently in 6th semester of **Analysis and Systems Development**
 
-- 🎓 I'm currently in 5th semester of Analysis and Systems Development
-- 💼 SOA Analyst at DXC Technology 
-- 📖 I'm currently learning about Web Development and Data Science
-- 🙋 Ask me about javascript, i will love to help
-- 😛 Fun facts: i love drawning, animation and games. My favorite superhero is Batman. I have a cat called Edgar 🐈.
+- 🌱 I’m currently learning **Django** and **DevOps**
 
-### My social medias:
+- 💼 SOA Analyst and Developer at **DXC Technology**
 
-[![Twitter Badge](https://img.shields.io/twitter/follow/xandowski?label=Follow&style=social&link=https://twitter.com/xandowski)](https://twitter.com/xandowski)
-[![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexandre-morais/)](https://www.linkedin.com/in/alexandre-morais/)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=&logo=instagram&logoColor=white)](https://www.instagram.com/alexandre.moraiis/)
+- 🔭 I’m currently working on [todo-map](https://github.com/Xandowski/todo-map)
 
-  
-  ### My class schedule
+- 💬 Ask me about **react and python**
 
-  Week Day | Schedule | Subject
----------|------|--------
- Monday    |07:00pm to 08:40pm | Information Security
- Monday    |08:50pm to 10:30pm | Society and Technology
- Tuesday   |07:00pm to 10:30pm | Software Engineering II
- Wednesday |04:40pm to 06:20pm | Methodology of Scientific-Technological Research
- Wednesday |07:00pm to 10:30pm | Database Lab
- Thursday  |07:00pm to 10:30pm | Applied Statistics
- Friday    |07:00pm to 10:30pm | Computer Network
+- 👨‍💻 My projects are available on [Github](https://github.com/Xandowski?tab=repositories)
 
+<h2 align="left">Connect with me:</h2>
+<p align="left">
+<a href="https://twitter.com/xandowski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="xandowski" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/alexandre-morais" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexandre-morais" height="30" width="40" /></a>
+<a href="https://instagram.com/alexandrecmorais" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alexandrecmorais" height="30" width="40" /></a>
+</p>
 
-##### Languages and tools that i'm studying:
+#
 
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java&logoColor=orange)
-![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)
-![NextJS](https://img.shields.io/badge/-NextJS-222222?style=falt&logo=vercel)
-![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux)
-![Python](https://img.shields.io/badge/-Python-222222?style=flat&logo=python)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> </p>
 
-##### Langues and tools that i have used:
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xandowski&show_icons=true&locale=en&layout=compact" alt="xandowski" /></p>
 
-![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
-![CSS](https://img.shields.io/badge/-CSS-222222?style=flat&logo=css3)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
-![JavaScript](https://img.shields.io/badge/-JavaScript-222222?style=flat&logo=javascript)
-![MYSQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql)
-![PHP](https://img.shields.io/badge/-php-000000?style=flat&logo=php)
-![VSCode](https://img.shields.io/badge/-vscode-222222?style=flat&logo=visual-studio-code&logoColor=007ACC)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=xandowski&label=Profile%20views&color=0e75b6&style=flat" alt="xandowski" /> </p>
 
 </div>
