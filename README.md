@@ -5,15 +5,11 @@
 
 <img align="right" src="https://media.giphy.com/media/WoubLJE2HwyHg1qa9Z/giphy.gif" width="300"/>
 
-- 🎓 I'm currently in 6th semester of **Analysis and Systems Development**
-
-- 🌱 I’m currently learning **Django** and **DevOps**
-
 - 💼 SOA Analyst and Developer at **DXC Technology**
 
 - 🔭 I’m currently working on [todo-map](https://github.com/Xandowski/todo-map)
 
-- 💬 Ask me about **react and python**
+- 💬 Ask me about **react, js, ts**
 
 - 👨‍💻 My projects are available on [Github](https://github.com/Xandowski?tab=repositories)
 
