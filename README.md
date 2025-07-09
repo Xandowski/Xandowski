@@ -5,7 +5,7 @@
 
 <img align="right" src="https://media.giphy.com/media/WoubLJE2HwyHg1qa9Z/giphy.gif" width="300"/>
 
-- 💼 Backend Developer at **DXC Technology**
+- 💼 Software Engineering Analyst at **[Elo](https://www.elo.com.br/)**
 
 - 📚 Student at **[Univesp](https://univesp.br/cursos/bacharel-em-tecnologia-da-informacao)**
 
